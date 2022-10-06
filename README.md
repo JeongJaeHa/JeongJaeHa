@@ -24,7 +24,12 @@
 </a>
 
 <!--START_SECTION:waka-->
-
+```text
+🌞 Morning    25 commits  ███░░░░░░░░░░░░░░░░░░  14.7%
+🌆 Daytime    92 commits  ███████████▎░░░░░░░░░  54.1%
+🌃 Evening    48 commits  █████▉░░░░░░░░░░░░░░░  28.2%
+🌙 Night       5 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+```
 <!--END_SECTION:waka-->
 <!--
 **JeongJaeHa/JeongJaeHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
