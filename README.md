@@ -2,7 +2,7 @@
 #### Back-End Developer
 
 ##### 📚 Education
-`-` 2015.03 ~ 2021.02 Suwon Univ, Electro Material Engineering  
+`-` 2015.03 ~ 2021.02 Suwon Univ, Electronic Materials Engineering  
 `-` 2022.07 ~ 2022.10 >WECODE 
 
 ##### 🏢 Career
