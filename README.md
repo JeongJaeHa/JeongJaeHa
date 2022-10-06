@@ -1,4 +1,4 @@
-### Hi! I'm JaeHa Jeong
+### Hi! I'm JaeHa Jeong 🙂🙂
 ### Back-End Developer
 
 #### 📚 Education
