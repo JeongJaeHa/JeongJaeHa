@@ -6,7 +6,7 @@
 </a>
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/224a14b7-22fd-4319-9ed8-e5fdc0528287.svg)](https://wakatime.com/@224a14b7-22fd-4319-9ed8-e5fdc0528287)
+[![Jaeha's wakatime](https://wakatime.com/badge/user/224a14b7-22fd-4319-9ed8-e5fdc0528287.svg)](https://wakatime.com/@224a14b7-22fd-4319-9ed8-e5fdc0528287)
 
 <!--
 **JeongJaeHa/JeongJaeHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
