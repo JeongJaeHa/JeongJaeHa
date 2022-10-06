@@ -1,12 +1,12 @@
 ### Hi! I'm JaeHa Jeong
-#### Back-End Developer
+### Back-End Developer
 
-##### 📚 Education
+#### 📚 Education
 `-` 2015.03 ~ 2021.02 Suwon Univ, Electronic Materials Engineering  
 `-` 2022.07 ~ 2022.10 >WECODE 
 
-##### 🏢 Career
-`-` 2020.06 ~ 2022.01 SELECS.Corp 시공관리직무
+#### 🏢 Career
+`-` 2020.06 ~ 2022.02 SELECS.Corp 시공관리직무
 
 <h2 align="LEFT">  Tech Stack  </h2>
 
