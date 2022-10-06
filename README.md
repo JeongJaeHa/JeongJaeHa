@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![JaeHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongJaeHa&show_icons=true&theme=ayu-mirage)
+
+
 <!--
 **JeongJaeHa/JeongJaeHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
