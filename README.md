@@ -6,7 +6,7 @@
 `-` 2015.03 ~ 2021.02 ➡ Suwon Univ, Electronic Materials Engineering  
 
 #### 🏢 Career
-`-` 2020.01 ~ 2022.02 ➡ 시공관리직무  
+`-` 2020.01 ~ 2022.02 ➡ 외곽감지설비 시공관리직무  
 
 </br>
 <h2 align="LEFT">  ⚙️ Tech Stack  </h2>
