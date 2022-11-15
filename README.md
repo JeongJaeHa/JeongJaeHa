@@ -2,14 +2,14 @@
 안녕하세요 백엔드 개발자 정재하입니다. 어떠한 상황에서도 유연하게 대처할 수 있는 개발자를 목표하고 있습니다.  </br>
 
 #### 📚 Education
+`-` 2022.07 ~ 2022.10 ➡ WECODE bootcamp 36기 수료(Back-end)<br/>
 `-` 2015.03 ~ 2021.02 ➡ Suwon Univ, Electronic Materials Engineering  
-`-` 2022.07 ~ 2022.10 ➡ WECODE bootcamp (Back-end)
 
 #### 🏢 Career
-`-` 2020.06 ~ 2022.02 ➡ SELECS.Corp 시공관리직무  
+`-` 2020.01 ~ 2022.02 ➡ 시공관리직무  
 
 </br>
-<h2 align="LEFT">  Tech Stack  </h2>
+<h2 align="LEFT">  ⚙️ Tech Stack  </h2>
 
 <p align="LEFT">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -19,6 +19,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</p>
+</div>
+</br>
+<h2 align="LEFT">  🔥 Now Study 🔥  </h2>
+
+<p align="LEFT">
+  <img src="https://img.shields.io/badge/TypesSript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>&nbsp
 </p>
 </div>
 </br>
