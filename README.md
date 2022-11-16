@@ -41,7 +41,7 @@
 <div align="center">
 <a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeongJaeHa&show_icons=true&theme=ayu-mirage" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongJaeHa&layout=compact&theme=tokyonight" />
 </a>
 </div>
 </br>
