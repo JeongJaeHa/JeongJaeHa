@@ -1,14 +1,4 @@
 ### Hi there, I'm JaeHa Jeong 🙂🙂
-안녕하세요 백엔드 개발자 정재하입니다. 어떠한 상황에서도 유연하게 대처할 수 있는 개발자를 목표하고 있습니다.  </br>
-
-#### 📚 Education
-`-` 2022.12 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➡ SBA AWS Public&Private Cloud 과정 <br/>
-`-` 2022.11 ~ 2022.12 ➡ Wanted 프리온보딩 백엔드코스 수료<br/>
-`-` 2022.07 ~ 2022.10 ➡ WECODE bootcamp 36기 수료(Back-end)<br/>
-`-` 2015.03 ~ 2021.02 ➡ Suwon Univ, Electronic Materials Engineering  
-
-#### 🏢 Career
-`-` 2020.01 ~ 2022.02 ➡ 외곽감지설비 시공관리직무  
 
 </br>
 <h2 align="LEFT">  ⚙️ Tech Stack  </h2>
